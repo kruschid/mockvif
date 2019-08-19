@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "build",
+		"target": "es5",
+		"module": "commonjs",
+    "strict": true,
+		"alwaysStrict": true,
+		"noUnusedLocals": true,
+    "noUnusedParameters": true,
+		"moduleResolution": "Node",
+		"lib": ["es6"],
+		"baseUrl": "src"
+	},
+}
